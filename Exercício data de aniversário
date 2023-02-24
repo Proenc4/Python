@@ -1,0 +1,6 @@
+ntitu = ('-----DESAFIO 2-----')
+print (ntitu)
+n1 = input ('Dia de nacimento: ')
+n2 = input ('Mês de nacimento: ')
+n3 = input ('Ano de nacimento: ')
+print ('Você nasceu no dia {} de {} de {}. Correto?!!'.format(n1, n2, n3))
