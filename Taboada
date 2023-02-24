@@ -1,0 +1,20 @@
+titu = ('TABUADA')
+print(titu)
+print ()
+n = int(input('Digite um número para formar a tabuada: '))
+
+#opção1=
+#print ('{} , {} , {} , {} , {} , {} , {} , {} , {} , {} , {} '.format(n*0 , n*1 , n*2 , n*3 , n*4 , n*5 , n*6 , n*7 , n*8 , n*9 , n*10))
+
+#opção2 =
+#print (n * 0)
+#print (n * 1)
+#print (n * 2)
+#print (n * 3)
+#print (n * 4)
+#print (n * 5)
+#print (n * 6)
+#print (n * 7)
+#print (n * 8)
+#print (n * 9)
+#print (n * 10)
